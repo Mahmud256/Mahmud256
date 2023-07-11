@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Mahmudul Hasan Sarkar
 #### I am a Student
-My name is Mahmud. I am currently a student at IST pursuing a BSc in CSE. I have four years of experience working as a data entry operator. In my spare time, I enjoy solving programming problems as it is one of my hobbies. Looking ahead, my ultimate goal is to become a Software Engineer. Thanks!
+I am currently a student at IST pursuing a BSc in CSE. I have four years of experience working as a data entry operator. In my spare time, I enjoy solving programming problems as it is one of my hobbies. Looking ahead, my ultimate goal is to become a Software Engineer. Thanks!
 
 Skills: C/C++/Python / HTML / CSS
 

@@ -5,7 +5,7 @@ I am currently a student at IST, where I am studying for a BSc in CSE. I have fo
 Skills: C/C++/Python / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
+https://mahmud256-assignment-9.netlify.app/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmud256)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mahmudul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mahmudul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
 

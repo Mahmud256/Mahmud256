@@ -13,11 +13,6 @@ In my free time, I indulge in solving programming problems, a hobby that aligns 
 - HTML
 - CSS
 
-### GitHub Achievements
-[![GitHub Achievements](https://github.com/drknzz/GitHub-Achievements/blob/main/badges/badge-1.svg)](https://github.com/drknzz/GitHub-Achievements)
-[![GitHub Achievements](https://github.com/drknzz/GitHub-Achievements/blob/main/badges/badge-2.svg)](https://github.com/drknzz/GitHub-Achievements)
-[![GitHub Achievements](https://github.com/drknzz/GitHub-Achievements/blob/main/badges/badge-3.svg)](https://github.com/drknzz/GitHub-Achievements)
-
 ### Connect with Me
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)

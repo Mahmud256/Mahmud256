@@ -14,13 +14,12 @@ In my free time, I indulge in solving programming problems, a hobby that aligns 
 - CSS
 
 ### Connect with Me
-[![GitHub](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
+[![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)
 [![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue)](https://www.facebook.com/Mahmudul)
 [![Python](https://img.shields.io/badge/Python-Intermediate-yellow)](https://www.python.org/)  
 
 ### GitHub Stats
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mahmud256)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true)  
 ![GitHub Metrics](https://metrics.lecoq.io/Mahmud256)

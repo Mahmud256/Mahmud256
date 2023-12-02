@@ -17,9 +17,6 @@ In my free time, I indulge in solving programming problems, a hobby that aligns 
 ### Connect with Me
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)
-
-[![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)
 [![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue)](https://www.facebook.com/Mahmudul)
 [![Python](https://img.shields.io/badge/Python-Intermediate-yellow)](https://www.python.org/)  
 

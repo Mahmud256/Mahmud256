@@ -7,12 +7,10 @@ Skills: C/C++/Python / HTML / CSS
 - 🔭 I’m currently working on this page. 
 https://mahmud256-assignment-9.netlify.app/
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmud256)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mahmudul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mahmudul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmud256)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mahmudul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mahmudul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
-
-
-<a href='https://archiveprogram.github.com/'><img src='[https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif](https://img.shields.io/travis/user/repo/master.svg)' width='40' height='40'></a> 
+[![GitHub](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)
+[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue)](https://www.facebook.com/Mahmudul)
+[![Python](https://img.shields.io/badge/Python-Intermediate-yellow)](https://www.python.org/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mahmud256)](https://github.com/ryo-ma/github-profile-trophy)
 

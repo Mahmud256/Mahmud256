@@ -7,11 +7,15 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 🔭 I’m currently working on [my personal webpage](https://mahmud256-assignment-9.netlify.app/).
 
-### Skills
-- C/C++
-- Python
-- HTML
-- CSS
+### Technologies I Work With
+
+- ![HTML Logo](html_logo.png) HTML
+- ![CSS Logo](css_logo.png) CSS
+- ![JavaScript Logo](javascript_logo.png) JavaScript
+- ![React Logo](react_logo.png) React.js
+- ![Node.js Logo](nodejs_logo.png) Node.js
+- ![MongoDB Logo](mongodb_logo.png) MongoDB
+
 
 ### Connect with Me
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)

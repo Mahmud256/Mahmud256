@@ -3,12 +3,9 @@
 ### Hi there 👋, I'm Mahmudul Hasan Sarkar
 #### Student | Aspiring Software Engineer
 
-I am currently an IST student pursuing a BSc in Computer Science and Engineering. With 6 months of experience in frontend web development, I have built a strong foundation in efficiently managing websites.
+I am currently a student studying B.Sc. in Computer Science and Engineering at IST. With 6 months of experience in frontend web development, I have built a strong foundation in efficiently managing websites. I work with HTML, CSS, Tailwind CSS, JavaScript, React.js, Firebase, Nodejs and MongoDB, etc.
 
 In my free time, I enjoy solving programming problems—a hobby that aligns with my ultimate goal of becoming a Software Engineer.
-
-🔭 I’m currently working on [my personal webpage](https://mahmud256-assignment-9.netlify.app/).
-
 
 ### Technologies I Work With
 
@@ -26,7 +23,8 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
  
 
-### GitHub Stats
+### Using Language
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)
+
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true)  
-![GitHub Metrics](https://metrics.lecoq.io/Mahmud256)

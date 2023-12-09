@@ -1,3 +1,5 @@
+![Cover Image](path/to/your/mahmud-banner.png)
+
 ### Hi there 👋, I'm Mahmudul Hasan Sarkar
 #### Student | Aspiring Software Engineer
 

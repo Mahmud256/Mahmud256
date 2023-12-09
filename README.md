@@ -18,8 +18,8 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### Social
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/Mahmudul/](https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/))
-[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/Mahmudul](https://www.facebook.com/profile.php?id=100010396957638))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue?style=flat&logo=linkedin)]([[https://www.linkedin.com/in/Mahmudul/](https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/)](https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/))
+[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue?style=flat&logo=facebook&logoColor=white)]([[https://www.facebook.com/Mahmudul](https://www.facebook.com/profile.php?id=100010396957638)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100010396957638))
 
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)

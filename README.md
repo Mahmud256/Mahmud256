@@ -9,7 +9,7 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### Technologies I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js, tailwind, bootstrap, react,nodejs,mongodb,figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,figma&perline=3)](https://skillicons.dev)
 
 
 ### Connect with Me

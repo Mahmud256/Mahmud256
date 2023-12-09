@@ -26,7 +26,9 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmud256&card_width=496)](https://git.io/streak-stats)
 
 ### Last Three Projects
 ## Project-1: Modern Technology and Electronic

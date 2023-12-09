@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Mahmudul Hasan Sarkar
 #### Student | Aspiring Software Engineer
 
-I am currently a student at IST, pursuing a BSc in Computer Science and Engineering. With four years of experience as a data entry operator, I have developed a strong foundation in handling data efficiently.
+I am currently an IST student pursuing a BSc in Computer Science and Engineering. With 6 months of experience in frontend web development, I have built a strong foundation in efficiently managing websites.
 
-In my free time, I indulge in solving programming problems, a hobby that aligns with my ultimate goal of becoming a Software Engineer.
+In my free time, I enjoy solving programming problems—a hobby that aligns with my ultimate goal of becoming a Software Engineer.
 
 🔭 I’m currently working on [my personal webpage](https://mahmud256-assignment-9.netlify.app/).
 

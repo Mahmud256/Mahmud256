@@ -30,11 +30,11 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### Last Three Projects
 ## Project-1: Modern Technology and Electronic
-[Preview Link](https://assignment-1010.netlify.app/) (Main Link: https://assignment-1010.netlify.app/)
+[Preview Link](https://assignment-1010.netlify.app/)
 
 ## Project-2: Group Study Assignment
-[Preview Link](https://assignment-11-3a371.web.app/) (Main Link: https://assignment-11-3a371.web.app/)
+[Preview Link](https://assignment-11-3a371.web.app/)
 
 ## Project-3: GULSHAN DREAM NEST
-[Preview Link](https://assignment-12-6f6d3.web.app/) (Main Link: https://assignment-12-6f6d3.web.app/)
+[Preview Link](https://assignment-12-6f6d3.web.app/)
 

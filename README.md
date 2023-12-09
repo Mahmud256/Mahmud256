@@ -27,3 +27,8 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true)  
+
+### Last Three Projects
+## Project-1: https://assignment-1010.netlify.app/
+## Project-2: https://assignment-11-3a371.web.app/
+## Project-3: https://assignment-12-6f6d3.web.app/

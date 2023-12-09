@@ -9,12 +9,7 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### Technologies I Work With
 
-- ![HTML Logo](html_logo.png) HTML
-- ![CSS Logo](css_logo.png) CSS
-- ![JavaScript Logo](javascript_logo.png) JavaScript
-- ![React Logo](react_logo.png) React.js
-- ![Node.js Logo](nodejs_logo.png) Node.js
-- ![MongoDB Logo](mongodb_logo.png) MongoDB
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ### Connect with Me

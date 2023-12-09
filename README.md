@@ -7,16 +7,22 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 🔭 I’m currently working on [my personal webpage](https://mahmud256-assignment-9.netlify.app/).
 
+
 ### Technologies I Work With
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,figma&perline=3)](https://skillicons.dev)
 
 
 ### Connect with Me
+
+📧 Gmail: [mahmud474849@gmail.com](mailto:mahmud474849@gmail.com) 
+
+### Social
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue)](https://www.linkedin.com/in/Mahmudul/)
-[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue)](https://www.facebook.com/Mahmudul)
-[![Python](https://img.shields.io/badge/Python-Intermediate-yellow)](https://www.python.org/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Mahmudul/)
+[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Mahmudul)
+
+ 
 
 ### GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)

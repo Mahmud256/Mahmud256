@@ -1,4 +1,4 @@
-![banner](https://github.com/Mahmud256/Mahmud256/assets/71069222/1ea10d1c-2293-42ab-b701-dee40fe02c5c)
+
 
 ### Hi there 👋, I'm Mahmudul Hasan Sarkar
 #### Student | Aspiring Software Engineer

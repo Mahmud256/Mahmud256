@@ -14,8 +14,6 @@ In my free time, I enjoy solving programming problems—a hobby that aligns with
 
 ### Connect with Me
 
-📧 Gmail: [mahmud474849@gmail.com](mailto:mahmud474849@gmail.com) 
-
 ### Social
 [![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/)

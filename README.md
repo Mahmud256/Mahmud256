@@ -1,62 +1,74 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A Passionate Frontend / Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Mahmudul Hasan Sarkar</h1>
+<h3 align="center">Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mahmud256&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **React, Node.js, MongoDB**
-- 💻 Love building **responsive & modern web apps**
-- 🎨 UI/UX enthusiast (Figma + Tailwind)
-- 📫 Reach me at: **your.email@example.com**
+## 👨‍💻 About Me
+
+🎓 I am currently studying **B.Sc. in Computer Science and Engineering** at **IST**.  
+💻 I have **6 months of experience in Frontend Web Development**, with a strong foundation in building and managing responsive web applications.  
+🚀 I work with modern web technologies and enjoy creating clean, user-friendly interfaces.  
+🧠 In my free time, I love **solving programming problems**, which supports my goal of becoming a **Software Engineer**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&perline=6)](https://skillicons.dev)
-
-### ⚙️ Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb&perline=6)](https://skillicons.dev)
-
-### 🎨 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,jira&perline=6)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Technologies I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,figma,jira&perline=5" />
+  </a>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+<p align="center">
+  <a href="https://github.com/Mahmud256">
+    <img src="https://img.shields.io/github/followers/Mahmud256?style=social" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmudul%20Hasan%20Sarkar-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://portfolio-website.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+  <a href="https://www.facebook.com/profile.php?id=100010396957638">
+    <img src="https://img.shields.io/badge/Facebook-Mahmudul-blue?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!**
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmud256&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Recent Projects
+
+### 🏗️ Modern Technology and Electronic  
+🔗 **Live Preview:** https://assignment-1010.netlify.app/
+
+### 📚 Group Study Assignment  
+🔗 **Live Preview:** https://assignment-11-3a371.web.app/
+
+### 🏡 GULSHAN DREAM NEST  
+🔗 **Live Preview:** https://assignment-12-6f6d3.web.app/
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*

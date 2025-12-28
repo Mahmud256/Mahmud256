@@ -1,40 +1,62 @@
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A Passionate Frontend / Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-### Hi there 👋, I'm Mahmudul Hasan Sarkar
-#### Student | Aspiring Software Engineer
+---
 
-I am currently a student studying B.Sc. in Computer Science and Engineering at IST. With 6 months of experience in frontend web development, I have built a strong foundation in efficiently managing websites. I work with HTML, CSS, Tailwind CSS, JavaScript, React.js, Firebase, Nodejs and MongoDB, etc.
+## 🚀 About Me
+- 🌱 Currently learning **React, Node.js, MongoDB**
+- 💻 Love building **responsive & modern web apps**
+- 🎨 UI/UX enthusiast (Figma + Tailwind)
+- 📫 Reach me at: **your.email@example.com**
 
-In my free time, I enjoy solving programming problems—a hobby that aligns with my ultimate goal of becoming a Software Engineer.
+---
 
-### Technologies I Work With
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,figma,jira&perline=3)](https://skillicons.dev)
+### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&perline=6)](https://skillicons.dev)
 
+### ⚙️ Backend & Database
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb&perline=6)](https://skillicons.dev)
 
-### Connect with Me
+### 🎨 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,jira&perline=6)](https://skillicons.dev)
 
-### Social
-[![GitHub Followers](https://img.shields.io/github/followers/Mahmud256?style=social)](https://github.com/Mahmud256)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-sarkar-2b93581a6/)
-[![Facebook](https://img.shields.io/badge/Facebook-Mahmudul-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010396957638)
+---
 
+## 📊 GitHub Stats
 
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud256)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-### Current Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmud256&show_icons=true) 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight" alt="streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmud256&card_width=496)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
 
-### Last Three Projects
-## Project-1: Modern Technology and Electronic
-[Preview Link](https://assignment-1010.netlify.app/)
+---
 
-## Project-2: Group Study Assignment
-[Preview Link](https://assignment-11-3a371.web.app/)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://portfolio-website.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>
 
-## Project-3: GULSHAN DREAM NEST
-[Preview Link](https://assignment-12-6f6d3.web.app/)
+---
 
+⭐ **If you like my work, consider giving my repositories a star!**
